@@ -1,0 +1,21 @@
+# Modelos
+*.gguf
+*.bin
+*.safetensors
+
+# Binarios y runtimes
+*.dll
+*.exe
+*.zip
+
+# Temporales
+*.tmp
+*.log
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
