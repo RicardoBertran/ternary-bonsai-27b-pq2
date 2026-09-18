@@ -1,0 +1,1 @@
+Tienes tres cajas. Una contiene solo manzanas, otra solo naranjas y otra una mezcla de ambas. Todas las etiquetas están mal. Solo puedes sacar una fruta de una caja, sin mirar dentro. ¿Cómo puedes identificar correctamente las tres cajas? Explícalo de forma breve.

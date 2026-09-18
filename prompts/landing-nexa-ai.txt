@@ -1,0 +1,16 @@
+Crea una landing page moderna para una aplicación de inteligencia artificial llamada "Nexa AI".
+
+Devuelve un único archivo HTML completo con CSS y JavaScript incluidos.
+
+Debe tener:
+- Hero con título, subtítulo y CTA
+- Diseño oscuro y moderno
+- Tres tarjetas de características
+- Sección de precios
+- FAQ desplegable
+- Responsive para móvil
+
+No uses frameworks ni librerías externas.
+Mantén el CSS compacto y evita comentarios innecesarios.
+IMPORTANTE: termina siempre el documento hasta </html>.
+Devuelve únicamente el código.
